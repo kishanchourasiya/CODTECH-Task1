@@ -1,9 +1,14 @@
 # CODTECH-Task1
 Name : Kishan Ashok Chourasiya
+
 company : CODETECH IT SOLUTIONS
+
 ID : CT08DS7070
+
 DOMAIN : JAVA PROGRAMING
+
 DURATION : August to September 2024
+
 MENTOR : SRAVANI GOUNI
 
 Overview of the Project
