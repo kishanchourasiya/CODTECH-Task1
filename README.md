@@ -9,7 +9,7 @@ DOMAIN : JAVA PROGRAMING
 
 DURATION : August to September 2024
 
-MENTOR : SRAVANI GOUNI
+MENTOR : NEELA SANTHOSH  KUMAR
 
 Overview of the Project
 
